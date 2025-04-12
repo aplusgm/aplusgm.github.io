@@ -855,16 +855,16 @@ div.messages {
 }
 .status {
   color: #264409;
-  background: #E6EFC2 url(http://www.aplusglassnmetal.com/themes/pixture_reloaded/images/large-info.png) no-repeat 12px center;
+  background: #E6EFC2 url(themes/pixture_reloaded/images/large-info.png) no-repeat 12px center;
   border: 1px solid #C6D880;
   padding: 5px 10px;
 }
 div.error { 
-  background: #FBE3E4 url(http://www.aplusglassnmetal.com/themes/pixture_reloaded/images/large-stop.png) no-repeat 12px center; 
+  background: #FBE3E4 url(themes/pixture_reloaded/images/large-stop.png) no-repeat 12px center; 
 }
 div.notice { 
   color: #514721; 
-  background: #FFF6BF url(http://www.aplusglassnmetal.com/themes/pixture_reloaded/images/large-info.png) no-repeat 12px center; 
+  background: #FFF6BF url(themes/pixture_reloaded/images/large-info.png) no-repeat 12px center; 
   border-color: #FFD324; 
 }
 div.warning, tr.warning {
